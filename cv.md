@@ -9,7 +9,19 @@ Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam, dicta architecto 
 - telegram: @katiegrigoreva
 #### LOCATION
 - Russia, Krasnogorsk
+#### EDUCATION
+- UDEMY COURSE 
+   https://www.udemy.com/course/webdeveloper/
+- Moscow Power Engineering Institute (Technical University)
 
+   Engineer in the field of power engineering, Water and fuel technology at power plants
+
+   2005-2011
+#### SKILLS
+- HTML5/CSS3/SASS/SCSS
+- Bootstrap 4/5
+- Javascript basics (codewars 7/8 kyu)
+- Git, github
 
 
 
