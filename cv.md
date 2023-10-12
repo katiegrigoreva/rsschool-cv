@@ -22,7 +22,24 @@ Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam, dicta architecto 
 - Bootstrap 4/5
 - Javascript basics (codewars 7/8 kyu)
 - Git, github
-
+#### CODE EXAMPLE
+Find the nth Digit of a Number
+```
+let findDigit = function(num, nth){
+  let n = String(num);
+   if (nth <= 0) {
+     return -1
+} else if (nth > n.length || n.at(-nth) == '-') {
+     return 0
+} else {
+     return +n.at(-nth);
+ }
+}
+```
+LANGUAGES
+- Russian native
+- English, FCE certificate (B2 FIRST)
+- Italian basics
 
 
 
